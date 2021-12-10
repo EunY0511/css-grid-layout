@@ -1,3 +1,3 @@
-# css-grid-poster
+# css-grid-layout
 
 Try CSS Layout Grid
