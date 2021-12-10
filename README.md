@@ -1,3 +1,3 @@
-# css-grid-poster2
+# css-grid-poster
 
-challenge : css layout grid try
+Try CSS Layout Grid
